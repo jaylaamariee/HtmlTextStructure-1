@@ -1,1 +1,45 @@
+@charset "utf-8"
+h4 {
+  font-size: 36px;
+  color: Green;
+}
+
+p {
+  font-size: 20px;
+  color: Purple;
+}
+
+u {
+  font-size: 36px;
+  color:#9A93BF;
+}
+
+h1 {
+	font-size: 40px;
+	color:mediumspringgreen;
+}
+
+h3 {
+  font-size: 30px;
+  color: Purple;
+}
+
+h4 {
+	font-size: 28px;
+	color: #BF93B6;
+}
+
+h5 {
+  font-size: 20px;
+  color:midnightblue;
+}
+
+head {
+  background-color:cadetblue
+}
+
+li {
+  font-size: 22px;
+  color:#4F0143;
+}
 
