@@ -1,4 +1,9 @@
-@charset "utf-8"
+@charset "UTF-8";
+
+body {
+	background-color: #6B726F;
+}
+	
 h4 {
   font-size: 36px;
   color: Green;
@@ -43,18 +48,7 @@ li {
   color:#4F0143;
 }
 
-@media screen and (min-width:500px) and (max-width:700px) {
-.left {
-	width: 50%;
-	float: left;
-}
-
-.right {
-	width: 50%;
-	float: right;
-}
-
- header h1: hover{
+header h1:hover{
 		background-image: none;
 		animation-name: header;
 		animation-duration: 1s;
@@ -62,3 +56,21 @@ li {
 		animation-iteration-count: alternate;
 		animation-fill-mode: forwards;
 	}
+
+.images {
+	width: 40%;
+	}
+
+.imagesa1 {
+	width: 40%;
+}
+
+@media screen and (min-width:100px) and (max-width:700px) {
+
+	.imagesa1 {
+		width: 90%;
+	}	
+
+
+	
+}
