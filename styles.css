@@ -238,7 +238,11 @@ body{
 	.imagesa1 {
 		width: 90%;
 	}	
+  }
 
-
-	
-}
+	@media screen and (min-width:200px) and (max-width:1000px) {
+		
+	.imagesa2 {
+			width: 80%;
+	}
+  }
